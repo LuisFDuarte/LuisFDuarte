@@ -1,3 +1,10 @@
+## Hi there 👋⚡🌎⚡
+- 🔭 I’m currently working on: Solar and wind energy forecasting using python with Scikit Learn.
+- 🌱 I’m currently learning about web 3.0 development.
+- 👯 I’m looking to collaborate on web 3.0, energy efficiency, CO2 emissions reduction projects.
+- 💬 Ask me about: Renewable energies, IoT, Python, energy forecasting, software developing.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luis-felipe-duarte-herrera-73b276207/)
+
 ## Used technologies
 <div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="VisualStudio" title="VisualStudio" />
