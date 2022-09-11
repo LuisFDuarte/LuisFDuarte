@@ -38,3 +38,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+## Projects
+- [Sello Chained CO2 web 3.0](https://luisfduarte.github.io/SelloChainedCO2Interface/)
+- [HomeSoul AI Smart Home Startup](https://www.homesoul.com.co/)
+- [Ichef Ionic PWA](https://ichef-co.com/home)
